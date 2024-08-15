@@ -60,13 +60,4 @@ public class PatientController {
      }
     	 
      }
-//   
-     
-     
-     
-     
-     
-//    public ResponseEntity<Void> deletePatient(@PathVariable Integer id) {
-//       patientService.deletePatient(id);
-//        return new ResponseEntity<>(HttpStatus.NO_CONTENT);    }
-//}
+
